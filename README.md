@@ -26,8 +26,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [](https://github.com/Nonoland/FM-PCC)
-- Live Site URL: [](https://nolandartois.fr/FM-PCC/index.html)
+- Solution URL: [Link](https://github.com/Nonoland/FM-PCC)
+- Live Site URL: [Link](https://nolandartois.fr/FM-PCC/index.html)
 
 ## My process
 
